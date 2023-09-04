@@ -1743,6 +1743,23 @@ p.excerpt {
   background-repeat: no-repeat;
 }
 
+.what-is-food-img-1 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_1b33b591a5a24b209665c50b6dc734c2~mv2.jpg/v1/fill/w_740,h_237,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_1b33b591a5a24b209665c50b6dc734c2~mv2.jpg);
+  height: 250px;
+  background-repeat: no-repeat;
+}
+
+.what-is-food-img-2 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_b242f35b6d5c4633b954b72614f908c1~mv2.png/v1/fill/w_720,h_438,al_c,lg_1,q_85,enc_auto/b83c23_b242f35b6d5c4633b954b72614f908c1~mv2.png);
+  height: 450px;
+  background-repeat: no-repeat;
+}
+
+.what-is-food-img-3 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_5a66f665de344852919f73e24137ac9f~mv2.png/v1/fill/w_740,h_441,al_c,lg_1,q_85,enc_auto/b83c23_5a66f665de344852919f73e24137ac9f~mv2.png);
+  height: 450px;
+  background-repeat: no-repeat;
+}
 
 .pagination-wrap {
   margin-top: 40px;
