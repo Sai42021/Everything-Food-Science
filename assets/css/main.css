@@ -1671,6 +1671,48 @@ p.excerpt {
   background-repeat: no-repeat;
 }
 
+.food-contamination-img-1 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_32fbb8cdaed34cc3bd4e8aaaffb3c6a6~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b83c23_32fbb8cdaed34cc3bd4e8aaaffb3c6a6~mv2.png);
+  height: 450px;
+  background-repeat: no-repeat;
+}
+
+.food-contamination-img-2 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_034b6116c2c94727ba33a784b90cd079~mv2.png/v1/fill/w_360,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b83c23_034b6116c2c94727ba33a784b90cd079~mv2.png);
+  height: 250px;
+  background-repeat: no-repeat;
+}
+
+.food-contamination-img-3 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_41ea48f280ef4527b6ca07d824e479ba~mv2.png/v1/fill/w_360,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b83c23_41ea48f280ef4527b6ca07d824e479ba~mv2.png);
+  height: 250px;
+  background-repeat: no-repeat;
+}
+
+.food-contamination-img-4 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_8f8899a558704d63989f54acf03609b6~mv2.png/v1/fill/w_360,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b83c23_8f8899a558704d63989f54acf03609b6~mv2.png);
+  height: 250px;
+  background-repeat: no-repeat;
+}
+
+.food-contamination-img-5 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_e05e382359244f8e9da43acd0e3d8705~mv2.png/v1/fill/w_360,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b83c23_e05e382359244f8e9da43acd0e3d8705~mv2.png);
+  height: 250px;
+  background-repeat: no-repeat;
+}
+
+.food-contamination-img-6 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_441ba08529f240aba957702da35cc2ea~mv2.png/v1/fill/w_360,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b83c23_441ba08529f240aba957702da35cc2ea~mv2.png);
+  height: 250px;
+  background-repeat: no-repeat;
+}
+
+.food-contamination-img-7 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_594ffa07a4154b0d8cdb6871a5d6dcec~mv2.png/v1/fill/w_360,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b83c23_594ffa07a4154b0d8cdb6871a5d6dcec~mv2.png);
+  height: 500px;
+  background-repeat: no-repeat;
+}
+
 .pagination-wrap {
   margin-top: 40px;
 }
