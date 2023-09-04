@@ -1659,9 +1659,16 @@ p.excerpt {
   margin-bottom: 30px;
 }
 
-.single-artcile-bg {
-  background-image: url(../img/latest-news/news-bg-3.jpg);
+.Luttfried-img-1 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_2479b8b5143642f3bbfaee531ce43e34~mv2.jpg/v1/fill/w_360,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_2479b8b5143642f3bbfaee531ce43e34~mv2.jpg);
   height: 450px;
+  background-repeat: no-repeat;
+}
+
+.Luttfried-img-2 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_34c94b34976141d2b8d152eb36b59cba~mv2.jpg/v1/fill/w_360,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_34c94b34976141d2b8d152eb36b59cba~mv2.jpg);
+  height: 450px;
+  background-repeat: no-repeat;
 }
 
 .pagination-wrap {
