@@ -470,6 +470,10 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   background-image: url(../img/fish-factory.jpg);
 }
 
+.breadcrumb-bg-HF {
+  background-image: url(../img/food-vegetables-tomatoes.jpg);
+}
+
 .breadcrumb-text p {
   color: #90EE90;
   font-weight: 700;
