@@ -1722,24 +1722,28 @@ p.excerpt {
 .career-options-img-1 {
   background-image: url(https://static.wixstatic.com/media/b83c23_c2daa46b3753445b96ccf90e9b4ec211~mv2.jpg/v1/fill/w_740,h_251,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_c2daa46b3753445b96ccf90e9b4ec211~mv2.jpg);
   height: 250px;
+  max-width: relative;
   background-repeat: no-repeat;
 }
 
 .career-options-img-2 {
   background-image: url(https://static.wixstatic.com/media/b83c23_f383537115fb492fba15e459a4193412~mv2.jpg/v1/fill/w_740,h_301,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_f383537115fb492fba15e459a4193412~mv2.jpg);
   height: 250px;
+  max-width: relative;
   background-repeat: no-repeat;
 }
 
 .career-options-img-3 {
   background-image: url(https://static.wixstatic.com/media/b83c23_c0e68a61c3cf4cf99c1d65afef4175d7~mv2.jpg/v1/fill/w_740,h_398,al_c,lg_1,q_80,enc_auto/b83c23_c0e68a61c3cf4cf99c1d65afef4175d7~mv2.jpg);
   height: 450px;
+  max-width: relative;
   background-repeat: no-repeat;
 }
 
 .career-options-img-4 {
   background-image: url(https://static.wixstatic.com/media/b83c23_7ea83f154fda49c69e2eadac685a8bbc~mv2.jpg/v1/fill/w_740,h_412,al_c,lg_1,q_80,enc_auto/b83c23_7ea83f154fda49c69e2eadac685a8bbc~mv2.jpg);
   height: 450px;
+  max-width: relative;
   background-repeat: no-repeat;
 }
 
@@ -1758,6 +1762,19 @@ p.excerpt {
 .what-is-food-img-3 {
   background-image: url(https://static.wixstatic.com/media/b83c23_5a66f665de344852919f73e24137ac9f~mv2.png/v1/fill/w_740,h_441,al_c,lg_1,q_85,enc_auto/b83c23_5a66f665de344852919f73e24137ac9f~mv2.png);
   height: 450px;
+  background-repeat: no-repeat;
+}
+
+.Green-Soup-img-1 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_947a28dc4c254347a8591d9acd5200cb~mv2.jpg/v1/fill/w_360,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_947a28dc4c254347a8591d9acd5200cb~mv2.jpg);
+  height: 350px;
+  background-repeat: no-repeat;
+}
+
+.Green-Soup-img-2 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_c76edad328344f74b6e5ca91ea6b09fd~mv2.jpg/v1/fill/w_360,h_378,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_c76edad328344f74b6e5ca91ea6b09fd~mv2.jpg);
+  height: 350px;
+  max-width: relative;
   background-repeat: no-repeat;
 }
 
