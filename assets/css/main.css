@@ -1778,6 +1778,19 @@ p.excerpt {
   background-repeat: no-repeat;
 }
 
+.Tomato-jam-img-1 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_f28f703575ae4698903638e3f33c8948~mv2.jpg/v1/fill/w_360,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_f28f703575ae4698903638e3f33c8948~mv2.jpg);
+  height: 350px;
+  max-width: relative;
+  background-repeat: no-repeat;
+}
+
+.Tomato-jam-img-2 {
+  background-image: url(https://static.wixstatic.com/media/b83c23_49abb88b77e8411eba8f37af12e73e00~mv2.jpg/v1/fill/w_360,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b83c23_49abb88b77e8411eba8f37af12e73e00~mv2.jpg);
+  height: 250px;
+  background-repeat: no-repeat;
+}
+
 .pagination-wrap {
   margin-top: 40px;
 }
