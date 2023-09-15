@@ -467,7 +467,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 }
 
 .breadcrumb-bg-MFJ {
-  background-image: url(../img/fish-factory.jpg);
+  background-image: url(../img/farm-employee.jpg);
 }
 
 .breadcrumb-bg-HF {
@@ -506,9 +506,9 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   width: 100%;
   height: 100%;
   content: "";
-  background-color: #404040;
+  background-color: #025253;
   z-index: -1;
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 /* -----------------------------------------------------------------------------
