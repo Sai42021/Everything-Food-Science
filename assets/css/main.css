@@ -2494,3 +2494,169 @@ ul.social-link-team li a {
   margin-bottom: 10px;
 }
 
+/*Featured posts section*/
+.featured-post {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.featured-image img {
+  max-width: 400px;
+  height: auto;
+}
+
+.post-info {
+  flex: 1;
+  padding-left: 20px;
+}
+
+.post-info h2 {
+  font-size: 24px;
+}
+
+.post-info p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.other-posts {
+  margin: 20px;
+}
+
+.other-posts h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.accordion {
+  list-style-type: none;
+  padding: 0;
+}
+
+.accordion li {
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.accordion-header {
+  padding: 10px;
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+.accordion-content {
+  padding: 10px;
+}
+
+.accordion a {
+  text-decoration: none;
+  color: #A4DE02;
+  font-weight: bold;
+}
+
+.accordion a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .featured-post {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .featured-image img {
+      max-width: 100%;
+      height: auto;
+  }
+
+  .post-info {
+      text-align: center;
+      padding: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .post-info h2 {
+      font-size: 20px;
+  }
+
+  .post-info p {
+      font-size: 14px;
+  }
+
+  .continue-reading {
+      padding: 8px 16px;
+      font-size: 14px;
+  }
+
+  .accordion-header {
+      padding: 8px;
+  }
+
+  .accordion-content {
+      padding: 8px;
+  }
+}
+
+/* New styles for small images and accordion items */
+.accordion-item {
+  display: flex;
+  align-items: center;
+  margin: 1px;
+  border: none;
+}
+
+.accordion-item img {
+  max-width: 200px; 
+  height: auto;
+  margin-right: 10px; 
+  border-radius: 5px;
+}
+
+.accordion-content {
+  flex: 1;
+}
+
+.accordion-content h4 {
+  font-size: 16px;
+  margin-top: 0;
+}
+
+/* styles for small screens */
+@media (max-width: 768px) {
+  .accordion-item {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+  }
+
+  .accordion-item img {
+      max-width: 100%; /* Keep image size the same */
+      margin-right: 0; /* Remove spacing between image and content */
+  }
+
+  .accordion-content {
+      flex: 1;
+  }
+
+  .blog-meta {
+      font-size: 14px;
+  }
+
+  .blog-meta span {
+      margin-right: 10px;
+  }
+
+  .accordion-content h4 {
+      font-size: 18px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
+}
